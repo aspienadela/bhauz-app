@@ -1,5 +1,5 @@
 <?php  include ("config/functions.php"); 
-$base_url = '//127.0.0.1/edsa-bhauz-app/';
+$base_url = '//bhauz-app.herokuapp.com/';
 ?>
 
 <!DOCTYPE html>
